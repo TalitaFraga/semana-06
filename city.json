@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Recife",
+        "Region":"Northeast",
+        "state":"Pernambuco"
+
+    },
+    {
+        "name": "João Pessoa",
+        "Region":"Northeast",
+        "state":"Paraíba"
+
+    },
+    {
+        "name": "São Luiz",
+        "Region":"Northeast",
+        "state":"Maranhão"
+
+    },
+    {
+        "name": "Porto Alegre",
+        "Region":"South",
+        "state":"Rio Grande do Sul"
+
+    },
+    {
+        "name": "Cuiabá",
+        "Region":"Central-west",
+        "state":"Mato Grosso"
+
+    },
+    {
+        "name": "Florianópolis",
+        "Region":"South",
+        "state":"Santa Catarina"
+
+    },
+    {
+        "name": "Rio Branco",
+        "Region":"North",
+        "state":"Acre"
+
+    },
+    {
+        "name": "Porto Velho",
+        "Region":"North",
+        "state":"Rondônia"
+
+    },
+    {
+        "name": "São Paulo",
+        "Region":"Southeast",
+        "state":"São Paulo"
+
+    },
+    {
+        "name": "Vitória",
+        "Region":"Southeast",
+        "state":"Espiríto Santo"
+
+    }
+
+]

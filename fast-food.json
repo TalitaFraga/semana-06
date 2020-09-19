@@ -1,0 +1,91 @@
+[
+    {
+       "name":"McDonald's",
+       "number_of_locations":38695,
+       "country":"US",
+       "products":[
+          "burger",
+          "french fries",
+          "breakfast"
+       ]
+    },
+    {
+       "name":"Starbucks",
+       "number_of_locations":31256,
+       "country":"US",
+       "products":[
+          "coffee",
+          "breakfast"
+       ]
+    },
+    {
+       "name":"Bob's",
+       "number_of_locations":1000,
+       "country":"BR",
+       "products":[
+          "burger",
+          "french fries",
+          "milkshake"
+       ]
+    },
+    {
+       "name":"Burger King",
+       "number_of_locations":18838,
+       "country":"US",
+       "products":[
+          "burger",
+          "french fries"
+       ]
+    },
+    {
+       "name":"Pizza Hut",
+       "number_of_locations":18703,
+       "country":"US",
+       "products":[
+          "pizza"
+       ]
+    },
+    {
+       "name":"Tim Hortons",
+       "number_of_locations":4774,
+       "country":"CA",
+       "products":[
+          "pizza"
+       ]
+    },
+    {
+       "name":"Panda Express",
+       "number_of_locations":1900,
+       "country":"US",
+       "products":[
+          "chinese food"
+       ]
+    },
+    {
+       "name":"Giraffas",
+       "number_of_locations":440,
+       "country":"BR",
+       "products":[
+          "burger",
+          "lunch"
+       ]
+    },
+    {
+       "name":"KFC",
+       "number_of_locations":24104,
+       "country":"US",
+       "products":[
+          "fried chicken",
+          "chicken burger"
+       ]
+    },
+    {
+       "name":"Chiquinho Sorvetes",
+       "number_of_locations":522,
+       "country":"BR",
+       "products":[
+          "ice cream",
+          "milkshake"
+       ]
+    }
+ ]

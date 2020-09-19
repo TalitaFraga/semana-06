@@ -1,0 +1,73 @@
+[
+    {
+        "animal": "dog",
+        "name": "Jonny Alfred",
+        "age": 12,
+        "type": "vertebrate",
+        "specie": "mammal"
+        
+    },
+    {
+        "animal": "cat",
+        "name": "ada",
+        "age": 2,
+        "type": "vertebrate",
+        "specie": "mammal"
+    },
+    {
+        "animal": "snake",
+        "name": "naja",
+        "age": 5,
+        "type": "vertebrate",
+        "specie": "reptile"
+    },
+    {
+        "animal": "spider",
+        "name": "theo",
+        "age": 1,
+        "type": "invertebrate",
+        "specie": "arachnid"
+    },
+    {
+        "animal": "squid",
+        "name": "lula molusco",
+        "age": 7,
+        "type": "invertebrate",
+        "specie": "clam"
+    },
+    {
+        "animal": "bat",
+        "name": "batman",
+        "age": 3,
+        "type": "vertebrate",
+        "specie": "mammal"
+    },
+    {
+        "animal": "chicken",
+        "name": "marilu",
+        "age": 8,
+        "type": "vertebrate",
+        "specie": "bird"
+    },
+    {
+        "animal": "fish",
+        "name": "Nemo",
+        "age": 2,
+        "type": "vertebrate",
+        "specie": "fish"
+    },
+    {
+        "animal": "Parrot",
+        "name": "Osiel",
+        "age": 10,
+        "type": "vertebrate",
+        "specie": "bird"
+    },
+    {
+        "animal": "Turtle",
+        "name": "Michelangelo",
+        "age": 9,
+        "type": "vertebrate",
+        "specie": "reptile"
+    }
+]

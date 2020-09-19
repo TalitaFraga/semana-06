@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Ivory Coast",
+      "code": "CI",
+      "capital": "Yamoussoukro",
+      "currency": "XOF"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
+      "capital": null,
+      "currency": "AUD"
+    },
+    { "name": "Liberia", "code": "LR", "capital": "Monrovia", "currency": "LRD" },
+    {
+      "name": "Christmas Island",
+      "code": "CX",
+      "capital": "Flying Fish Cove",
+      "currency": "AUD"
+    },
+    { "name": "Mali", "code": "ML", "capital": "Bamako", "currency": "XOF" },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "capital": "Astana",
+      "currency": "KZT"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "capital": "London",
+      "currency": "GBP"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "capital": "Colombo",
+      "currency": "LKR"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "capital": "Majuro",
+      "currency": "USD"
+    },
+    { "name": "Bahamas", "code": "BS", "capital": "Nassau", "currency": "BSD" }
+  ]
